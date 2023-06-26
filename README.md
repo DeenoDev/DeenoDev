@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeenoDev
 - 👀 I’m interested in Fullstack Web Development.
-- 🌱 I’m currently learning React js & Laravel.
+- 🌱 I’m currently learning VueJS & Laravel.
 - 💞️ I’m looking to collaborate on Fullstack projects designed to build my porfolio & Skills as a developer.
 - 📫 How to reach me deyanoklaasen@outlook.com
 
